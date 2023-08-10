@@ -3,7 +3,7 @@
 Async Japanese tokenizer native plugin for React Native that works on iOS and Android.
 It tokenizes Japanese text in background thread so it won't block UI. It comes in handy for such as indexing a lot of texts for full-text search.
 
-![screenshot](https://github.com/craftzdog/react-native-japanese-tokenizer/blob/master/docs/screenshot.png?raw=true)
+![screenshot](https://github.com/luck18210/react-native-japanese-tokenizer/blob/master/docs/screenshot.png?raw=true)
 
 ## How it works
 
@@ -73,11 +73,11 @@ var text = "週休七日で働きたい"
 const tokens = await Tokenizer.tokenize(text)
 ```
 
-Also check out [the test](https://github.com/craftzdog/react-native-japanese-tokenizer/tree/master/test) to learn more.
+Also check out [the test](https://github.com/luck18210/react-native-japanese-tokenizer/tree/master/test) to learn more.
 
 ## License
 
-MIT License. By Fukumoto Riku ([@Dream210](live:.cid.c8c1e5bfecaf6dd4)).
+MIT License. By Fukumoto Riku ([@Dream210](https://crowdworks.jp/public/employees/4724161)).
 
 Note that this module is based on following libraries with respective license. Thank you for the fantastic works!
 
