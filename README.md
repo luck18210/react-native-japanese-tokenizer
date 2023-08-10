@@ -77,7 +77,7 @@ Also check out [the test](https://github.com/luck18210/react-native-japanese-tok
 
 ## License
 
-MIT License. By Fukumoto Riku ([@Dream210](https://crowdworks.jp/public/employees/4724161)).
+MIT License. By Fukumoto Riku ([@幸運18210](https://crowdworks.jp/public/employees/4724161)).
 
 Note that this module is based on following libraries with respective license. Thank you for the fantastic works!
 
